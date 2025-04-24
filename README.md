@@ -1,10 +1,8 @@
-## Git
+## Courses
 
 - [Learning Git - The Full Course](https://www.youtube.com/watch?v=rH3zE7VlIMs) 
 
     Phần descriptions bên dưới video có link của khóa học và các thông tin khác, như mã giảm giá cho khóa học tại Boot.dev bên dưới.
-
-## Courses
 
 - [The Last Algorithms Course You'll Need](https://theprimeagen.github.io/fem-algos/)
 
