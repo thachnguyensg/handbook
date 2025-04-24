@@ -23,3 +23,11 @@
     Toàn bộ nội dung các khóa học đều có thể xem miễn phí, các tính năng tốn phí cũng rất đáng giá, giúp mình học hiệu quả hơn.
 
     Học phí rẻ vì có chính sách trợ giá nước nghèo (có Việt Nam), áp dụng tự động khi thanh toán, không phải đi xin xỏ. Áp thêm mã giảm giá ở trên kia nữa càng ngon.
+
+## VOD Channels
+
+Mấy kênh VOD hay
+
+- [ThePrimeagen](https://www.youtube.com/@ThePrimeTimeagen)
+- [teej_dv](https://www.youtube.com/@teej_dv)
+- [Tsoding](https://www.youtube.com/@TsodingDaily)
