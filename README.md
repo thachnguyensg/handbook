@@ -14,6 +14,8 @@
 
     Học phí cao, nghe nói có chính sách hỗ trợ giảm giá cho nước nghèo, nhưng phải liên hệ để xin, không có cơ chế tự động.
 
+    Sinh viên được miễn phí học 6 tháng [tại đây](https://frontendmasters.com/welcome/github-student-developers/)
+
 - [Boot.dev](https://www.boot.dev/)
 
     Trang chuyên về kiến thức backend, chất lượng khá tốt. Có hệ thống level, đấu boss như khi chơi game nhập vai. 
