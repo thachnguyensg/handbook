@@ -31,3 +31,8 @@ Mấy kênh VOD hay
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeTimeagen)
 - [teej_dv](https://www.youtube.com/@teej_dv)
 - [Tsoding](https://www.youtube.com/@TsodingDaily)
+
+## Books
+
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
